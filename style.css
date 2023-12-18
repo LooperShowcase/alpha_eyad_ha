@@ -1,0 +1,43 @@
+h1 {
+color: rgb(255, 50, 50);    
+}
+
+body
+{
+  background-image: linear-gradient(red, rgb(0, 42, 255)); 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+div{
+    background-color: rgba(255, 0, 0, 0.644);
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  
